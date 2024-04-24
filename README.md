@@ -1,9 +1,3 @@
-**Repository Name:**
-`Quantum-Enhanced-Image-Classifier`
-
-**README Draft:**
-
-```markdown
 # Quantum-Enhanced Image Classifier
 
 Welcome to the Quantum-Enhanced Image Classifier repository! This project represents an innovative approach to image classification by leveraging the principles of quantum computing within a classical neural network architecture.
@@ -63,5 +57,5 @@ If you have any questions or comments about this repository, please open an issu
 ---
 
 Happy quantum computing!
-```
+
 
